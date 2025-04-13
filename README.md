@@ -23,3 +23,18 @@ Retrain a new model using the refined, filtered feature set.
 
 Final Evaluation & Saving:
 Evaluate the retrained model on test data and save the improved model for future use .
+
+Model Evaluation Results Before Flitering
+Accuracy: 0.9673
+Precision: 0.7513
+Recall: 0.8094
+F1 Score: 0.7793
+ROC-AUC: 0.8944
+
+
+Model Evaluation Results After Flitering
+Accuracy: 0.9709
+Precision: 0.7923
+Recall: 0.8011
+F1 Score: 0.7967
+ROC-AUC: 0.8925
